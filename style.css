@@ -42,7 +42,7 @@ body{
 .box{
     display: flex;
     justify-content: center;
-    font-size: 2.5rem;
+    font-size: 2.8rem;
     border: 2px solid black;
     align-items: center;
     cursor: pointer;
